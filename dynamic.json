@@ -1,0 +1,39 @@
+{
+	"profile": {
+		"img": "images/profilepic.jpg",
+		"name": "Ajay Grandhi",
+		"roll": "16a31a1246",
+		"institute": "Pragati Enginnering College",
+		"place": "samalkot"
+	},
+	"career": {
+		"info": "To Secure a challenging position where i can explore my talents for the benefits of the company"
+	},
+
+	"education": [{
+			"sno": "1",
+			"degree": "b.tech",
+			"institute": "Pragati Enginnering College",
+			"yop": "2020"
+		},
+		{
+			"sno": "2",
+			"degree": "inter",
+			"institute": "ksn",
+			"yop": "2016"
+		},
+		{
+			"sno": "1",
+			"degree": "ssc",
+			"institute": "Pvn",
+			"yop": "2014"
+		}
+	],
+	"languages": [{
+			"lang": "english"
+		},
+		{
+			"lang": "Telugu"
+		}
+	]
+}
